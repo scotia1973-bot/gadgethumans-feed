@@ -1,0 +1,30 @@
+🐦 HOOK: I automated my entire morning workflow with AI. Here's exactly how:
+
+1/5 I used to spend 90 minutes every morning on email, scheduling, and research. Now it takes 10. Here's the exact system I built:
+
+2/5 The core: one AI agent that triages my email. It categorizes, drafts replies, and flags urgent messages. I just review and send.
+
+3/5 I added a research agent that scans my industry news every morning and summarizes what matters. No more doomscrolling RSS feeds.
+
+4/5 The whole thing runs on a simple prompt chain. No code. No APIs. Just well-structured prompts that pass context between tasks.
+
+5/5 I built this for myself in about 2 hours. Now I offer it as a service for €47 — tell me what you want automated, I build it in 48 hours.
+
+🔗 https://payhip.com/GadgetHumans/product/done-for-you-ai-agent
+============================================================
+
+🐦 HOOK: Most 'AI gurus' sell courses. I sell working automation. Here's why that matters:
+
+1/5 You don't need to learn prompt engineering. You don't need to understand LLMs. You need someone to build it FOR you.
+
+2/5 I've spent a year building AI agents that actually work. Not tutorials. Not theory. Working automation that saves real hours.
+
+3/5 Email triage, content drafting, research, proposals, customer responses — I've automated all of it for myself and clients.
+
+4/5 The difference between a course and a working agent: a course teaches you to fish. An agent hands you dinner. Most people just want dinner.
+
+5/5 That's why I offer done-for-you agents at €47. Tell me what to automate. I build it. You get it in 48 hours. No learning required.
+
+🔗 https://payhip.com/GadgetHumans/product/done-for-you-ai-agent
+============================================================
+
